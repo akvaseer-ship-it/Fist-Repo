@@ -7,3 +7,4 @@ git status
 git add "file name"
 git add .
 git commit -m "Some message"
+git push origin mian
