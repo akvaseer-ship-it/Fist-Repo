@@ -1,4 +1,4 @@
 # Fist-Repo
 This is my First Repo
 <br>
-Author - Ali Khalid
+Author - Ali Khalid Waseer  

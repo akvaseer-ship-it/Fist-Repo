@@ -1,0 +1,9 @@
+git --verstion
+git config --global user.name "akvaseer"
+git config --global user.email "akvaseer@gmail.com"
+git config --list
+git clone https://github.com/akvaseer
+git status
+git add "file name"
+git add .
+git commit -m "Some message"
