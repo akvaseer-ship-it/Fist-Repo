@@ -1,3 +1,5 @@
+git notes using of the commands notes 
+
 git --verstion
 git config --global user.name "akvaseer"
 git config --global user.email "akvaseer@gmail.com"
